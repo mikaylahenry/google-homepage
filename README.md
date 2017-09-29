@@ -1,1 +1,1 @@
-# google-homepage
+# google-homepageThe goal of this project is to recreate the Google homepage using the html and css principles I have learned thus far.  This project is From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
