@@ -62,7 +62,8 @@ width 100%;
 
 .topbar {
 font: arial;
-color: black;
+font-size: 13px;
+color: #000000;
 }
 
 #bottom {
@@ -78,8 +79,8 @@ color: black;
 
 a {
   font: arial;
-  font-size: 14px;
-  color: #767676;
+  font-size: 13px;
+  color: #666666;
   margin-bottom: 10px;
   text-decoration: none;
   padding: 15px;
